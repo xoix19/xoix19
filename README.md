@@ -1,4 +1,4 @@
-![HeySurfer's Stats](https://github-readme-stats.vercel.app/api?username=xoix19&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight)
+![heyxooix Stats](https://github-readme-stats.vercel.app/api?username=xoix19&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight)
 <h3 align="left">Discord</h3>
 
 <p align="left">
